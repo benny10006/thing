@@ -4,22 +4,14 @@
 
 <head>
 
-<title> this
+<title> this </title>
 
-
-
-
-
-</title>
-
-
+ *{background-color: blue;}
 
 
 
   
 </head>
-
-
 
 
 
