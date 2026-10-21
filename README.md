@@ -6,8 +6,6 @@
 
 <title> this </title>
 
- *{background-color: blue;}
-
 
 
   
